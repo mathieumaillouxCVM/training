@@ -3,3 +3,9 @@ I like
     - salad
     - fruits
     
+My favorite movies are:
+    - Grand Hotel Budapest
+    - Ferris Bueller day off
+    - Back to the future
+
+    
